@@ -8,7 +8,7 @@ The time of all volunteers is valuable. Attempts to stir drama and cause chaos a
 
 Disrespectful profile pictures, statuses, and usernames fall under this rule. You may be asked to change them.
 
-A large portion of the community is under 18 years of age - all interactions shall comply with [FIRST's latest YPP guidelines.](https://www.firstinspires.org/programs/youth-protection-program). The discord server and github communities are regulated in accordance with these policies, including disallowing DM's between adults and minors.
+A large portion of the community is under 18 years of age - all interactions shall comply with [FIRST's latest YPP guidelines.](https://www.firstinspires.org/programs/youth-protection-program) The discord server and github communities are regulated in accordance with these policies, including disallowing DM's between adults and minors.
 
 The Community Guidelines for FIRST® Online Discussions are also in effect and should be followed at all times.
 
